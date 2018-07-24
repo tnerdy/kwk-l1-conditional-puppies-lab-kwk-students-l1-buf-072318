@@ -4,7 +4,6 @@ def no_puppies(number)
     "Good job, Rachel!" 
   elsif number > 0 
     "Get back to your animal goals!"
-   
    end
 end
 
