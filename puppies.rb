@@ -2,7 +2,7 @@
 def no_puppies(0)
   if number  > 0 
     "No more puppies!"
-  elsif 
+  elsif number == 0 
     "Well done, Rachel!"
    end
 end
